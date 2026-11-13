@@ -1,4 +1,11 @@
-# Olá! Eu sou Jefferson Alves Coelho 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+Jefferson+Alves+Coelho+%F0%9F%91%8B"
+      alt="Olá! Eu sou Jefferson Alves Coelho"
+    />
+  </a>
+</div>
 
 ### Engenheiro Civil | Desenvolvedor Full Stack | Tecnologia e Inovação
 
