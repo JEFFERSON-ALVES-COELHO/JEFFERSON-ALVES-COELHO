@@ -58,11 +58,22 @@ Sistema mobile para gerenciamento e controle de manutenção de equipamentos, co
 
 ---
 
-## 📊 GitHub
+<h2>📊 Estatísticas do GitHub</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEFFERSON-ALVES-COELHO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JEFFERSON-ALVES-COELHO&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+    width="48%"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFERSON-ALVES-COELHO&layout=compact&theme=tokyonight&hide_border=true)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFERSON-ALVES-COELHO&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Principais linguagens"
+    width="48%"
+  />
+</div>
+
 
 ---
 
