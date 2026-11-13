@@ -61,18 +61,15 @@ Sistema mobile para gerenciamento e controle de manutenção de equipamentos, co
 <h2>📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JEFFERSON-ALVES-COELHO&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFERSON-ALVES-COELHO&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Principais linguagens"
-    width="48%"
-  />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JEFFERSON-ALVES-COELHO&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="JEFFERSON-ALVES-COELHO github stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=JEFFERSON-ALVES-COELHO&layout=compact&langs_count=4&theme=transparent"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEFFERSON-ALVES-COELHO&theme=transparent" alt="Profile Details" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEFFERSON-ALVES-COELHO&theme=transparent&hide_border=false" alt="GitHub Streak" />
+</div>
+
 
 
 ---
